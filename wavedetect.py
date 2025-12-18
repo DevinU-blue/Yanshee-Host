@@ -8,7 +8,7 @@ from scp import SCPClient
 
 # --- CẤU HÌNH KẾT NỐI ROBOT ---
 ROBOT_IP = "192.168.31.234"
-ROBOT_PORT = 99             # Cổng SSH mặc định
+ROBOT_PORT = 1000             # Cổng SSH mặc định
 ROBOT_USER = "pi"
 ROBOT_PASSWORD = "1"        # Password của user pi
 ROBOT_DEST_PATH = "/home/pi/jupyter/command.json" # Đường dẫn đích trên Robot
