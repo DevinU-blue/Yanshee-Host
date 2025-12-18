@@ -9,7 +9,7 @@ from scp import SCPClient
 # --- CẤU HÌNH KẾT NỐI ROBOT ---
 ROBOT_IP = "192.168.31.234"
 
-ROBOT_PORT = 2000             # Cổng SSH mặc định
+ROBOT_PORT = 1             # Cổng SSH mặc định
 
 ROBOT_USER = "pi"
 ROBOT_PASSWORD = "1"        # Password của user pi
